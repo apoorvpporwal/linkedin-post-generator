@@ -151,3 +151,9 @@ A Streamlit app with three dropdown selectors (Topic, Length, Language) and a "G
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+# 📝 LinkedIn Post Generator  
+
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Click%20Here-brightgreen)](https://linkedin-post-generator-ejx5amd5jkscipgtqdulej.streamlit.app/)
+
+---

@@ -1,7 +1,7 @@
 from langchain_groq import ChatGroq
 import os
 from dotenv import load_dotenv
-load_dotenv("E:/linkedin-post-generator/.env", override=True)
+load_dotenv(override=True)
 
 
 llm = ChatGroq(model = "llama-3.3-70b-versatile")
